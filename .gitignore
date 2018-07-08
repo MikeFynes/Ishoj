@@ -23,8 +23,8 @@
 hs_err_pid*
 
 *.idea
-*.gradle
-gradle/**
+.gradle/**
+/gradle/**
 gradlew
 gradlew.bat
 out/**
